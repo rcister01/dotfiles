@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rociocisterna1@gmail.com
+	name = rocio cisterna
