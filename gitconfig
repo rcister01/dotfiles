@@ -51,4 +51,4 @@
   rebase = false
 [user]
 	email = rociocisterna1@gmail.com
-	name = rocio cisterna
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
